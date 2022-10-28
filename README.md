@@ -24,8 +24,14 @@
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
-  <p>HTML</p>
-  <p>CSS</p>
+  &emsp;
+   <a href="https://www.example.com" target="_blank">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23c40000.svg?style=plastic&logo=html&logoColor=white">
+  </a>
+   <a href="https://www.example.com" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%2300ea9d.svg?style=plastic&logo=html&logoColor=white">
+  </a>
+
 	
 	
 ## 📈 Stats
