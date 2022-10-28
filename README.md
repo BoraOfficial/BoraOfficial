@@ -48,5 +48,5 @@
 
 
 -----
-Thanks to [7oSkaaa](https://github.com/7oSkaaa) for this awesome README.md design!
+
 
