@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Bora! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-
+<p style="text-align: center;">I mainly develop web apps, I'm also interested in Cybersecurity. Explore my projects to learn more!</p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Contact with me
 <p align="center">
