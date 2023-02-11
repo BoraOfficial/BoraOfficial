@@ -50,7 +50,7 @@
 	
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Contact with me
 
-<p>Have any project ideas or business proposals? Hit me up at:
+<p>Have any project ideas or business proposals? Hit me up:
 <p align="center">
 	<a href="mailto:contact.boraofficial@gmail.com"><img img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=gmail&logoColor=white" alt="Gmail"/></a>
 	
