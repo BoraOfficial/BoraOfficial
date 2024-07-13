@@ -9,7 +9,7 @@
 
 
 
-### 👉 Programming languages
+### 👉 Languages I'm fluent in
 
 
 
