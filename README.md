@@ -11,27 +11,10 @@
 
 ### 👉 Languages
 
-
+| Python3 | CSS3 | JS | HTML5 | 
+|----------|----------|----------|-----|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3"  alt="CSS3" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="55" height="55"/>| 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-	<br>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white&color=blue">
-  </a>
-	<br>
-  &emsp;
-   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23c40000.svg?logo=html5&logoColor=white">
-  </a>
-	<br>
-  &emsp;
-   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-%2300ea9d.svg?logo=css3&logoColor=white&color=blueviolet">
-  </a>
+
 
 	
 	
