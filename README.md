@@ -35,7 +35,7 @@
 	
 	
 	
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Contact with me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Contact
 
 <p>Have any project ideas or business proposals? Hit me up:
 <p align="center">
