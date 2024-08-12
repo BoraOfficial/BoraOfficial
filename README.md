@@ -1,28 +1,23 @@
-<h1 align="center">Hi , I'm Bora! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Bora!👋</h1>
 
 
-<p align="center"><b>I mainly develop web apps, I'm also interested in Cybersecurity. Scroll to learn more!</b></p>
-
-
-
+<p align="center"><b>A full-stack web developer and a cybersecurity enthusiast.</b></p>
 
 
 
 
-### 👉 Languages
-
-| Python3 | CSS3 | JS | HTML5 | 
-|----------|----------|----------|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3"  alt="CSS3" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="55" height="55"/>| 
 
 
-	
-	
-## 📈 Stats
 
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=sammorozov&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
+**I'm good with:** <br>
+[![My Skills](https://skillicons.dev/icons?i=py,js)](https://github.com/cyteon)
+
+**I'm OK with:** <br>
+[![My Skills](https://skillicons.dev/icons?i=tailwindcss,linux,css,sqlite,bootstrap)](https://github.com/cyteon)
+
+**I'm learning:** <br>
+[![My Skills](https://skillicons.dev/icons?i=cs,mongodb,rust,pytorch)](https://github.com/cyteon)
+
 
 <p align="center">
 
@@ -31,11 +26,13 @@
 </p>
 
 <br>
+
+
+
 	
 	
-	
-	
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Contact
+
+## <img src="https://github.com/user-attachments/assets/4d3db517-3c9e-4929-82dc-d8b57afed794" width="20px"> Contact
 
 <p>Have any project ideas or business proposals? Hit me up:
 <!--<p align="center">
