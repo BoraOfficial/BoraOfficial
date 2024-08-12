@@ -36,7 +36,7 @@
 
 <p>Have any project ideas or business proposals? Hit me up:
 <p align="center">
-	<a href="https://boraofficial.github.io/contact" target="_blank"><img img src="https://img.shields.io/badge/get%20in%20touch-blue?style=for-the-badge" alt="Gmail"/></a>
+	<a href="https://boraofficial.github.io/contact" target="_blank"><img src="https://img.shields.io/badge/get%20in%20touch-blue?style=for-the-badge" alt="Gmail"/></a>
 	
 	
 
