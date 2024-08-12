@@ -35,10 +35,10 @@
 ## <img src="https://github.com/user-attachments/assets/4d3db517-3c9e-4929-82dc-d8b57afed794" width="20px"> Contact
 
 <p>Have any project ideas or business proposals? Hit me up:
-<!--<p align="center">
-	<a href="mailto:contact.boraofficial@gmail.com"><img img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=gmail&logoColor=white" alt="Gmail"/></a>
+<p align="center">
+	<a href="https://boraofficial.github.io/contact"><img img src="https://img.shields.io/badge/get%20in%20touch-blue?style=for-the-badge" alt="Gmail"/></a>
 	
-	-->
+	
 
 
 
