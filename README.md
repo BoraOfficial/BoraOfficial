@@ -10,13 +10,13 @@
 
 
 **I'm good with:** <br>
-[![My Skills](https://skillicons.dev/icons?i=py,js)](https://github.com/cyteon)
+[![My Skills](https://skillicons.dev/icons?i=py,js)]
 
 **I'm OK with:** <br>
-[![My Skills](https://skillicons.dev/icons?i=tailwindcss,linux,css,sqlite,bootstrap,html)](https://github.com/cyteon)
+[![My Skills](https://skillicons.dev/icons?i=tailwindcss,linux,css,sqlite,bootstrap,html)]
 
 **I'm learning:** <br>
-[![My Skills](https://skillicons.dev/icons?i=cs,mongodb,rust,pytorch)](https://github.com/cyteon)
+[![My Skills](https://skillicons.dev/icons?i=cs,mongodb,rust,pytorch)]
 
 
 <p align="center">
