@@ -1,46 +1,20 @@
-<h1 align="center">Hi, I'm Bora!👋</h1>
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4493f8&repeat=false&random=false&width=435&lines=--%20Hello%2C%20I%27m%20Bora%21)](https://git.io/typing-svg)
 
-
-<p align="center"><b>A full-stack web developer and a cybersecurity enthusiast.</b></p>
-
-
-
-
-
-
-
-**I'm good with:** <br>
-![My Skills](https://skillicons.dev/icons?i=py,js)
-
-**I'm OK with:** <br>
-![My Skills](https://skillicons.dev/icons?i=tailwindcss,linux,css,sqlite,bootstrap,html)
-
-**I'm learning:** <br>
-![My Skills](https://skillicons.dev/icons?i=cs,mongodb,rust,pytorch)
-
-
-<p align="center">
-
-  <!--<img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=boraofficial&show_icons=true&theme=vision-friendly-dark">-->
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boraofficial&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</p>
-
-<br>
+- Full-stack Web Developer
+- Decent Software Engineer
+- Occasional Malware Analyst
+- Seldom DevOps Engineer
+- Aspiring Assembly Reverse Engineer
 
 
 
+
+# 💻 Tech Stack
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%233E1F5B.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-%23A80030.svg?style=for-the-badge&logo=debian&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-%230C4A8D.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2304B2D9.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233B4A6F.svg?style=for-the-badge&logo=python&logoColor=white) ![Python Flask](https://img.shields.io/badge/Python_Flask-%23000E2D.svg?style=for-the-badge&logo=flask&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2304B8A1.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%23074000.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Vue](https://img.shields.io/badge/Vue-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
+
+
+
+# 🌐 Contact
+
+[![Email](https://img.shields.io/badge/get%20in%20touch-blue?style=for-the-badge)](https://boraofficial.github.io#contact)
 	
-	
-
-## <img src="https://github.com/user-attachments/assets/4d3db517-3c9e-4929-82dc-d8b57afed794" width="20px"> Contact
-
-<p>Have any project ideas or business proposals? Contact me:
-<p align="center">
-	<a href="https://boraofficial.github.io#contact" target="_blank"><img src="https://img.shields.io/badge/get%20in%20touch-blue?style=for-the-badge" alt="Gmail"/></a>
-	
-	
-
-
-
-
-
