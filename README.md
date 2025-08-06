@@ -3,7 +3,7 @@
 - Full-stack Web Developer
 - Decent Software Engineer
 - Occasional Malware Analyst
-- Seldom DevOps Engineer
+- Expo Mobile App Developer
 - Aspiring Assembly Reverse Engineer
 
 
